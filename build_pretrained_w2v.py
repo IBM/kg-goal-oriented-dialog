@@ -3,6 +3,8 @@ Created on July, 2018
 
 @author: hugo
 
+Copyright 2018 IBM Corp.
+
 '''
 import argparse
 import os
